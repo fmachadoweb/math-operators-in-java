@@ -12,6 +12,8 @@
   <h3 align="center">TESTANDO OPERADORES MATEMÁTICOS EM JAVA</h3>
   
   <p align="center">Exercício em Java onde estou Testando operadores matemáticos. </p>
+  
+  <p align="center">Curso <code>Let's Code.</code> </p>
 
   <p align="center">
     <br />
