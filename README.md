@@ -18,7 +18,6 @@
     <a href="https://github.com/fmachadoweb/operadores-matematicos-em-java"><strong>Explorar arquivos »</strong></a>
     <br />
     <br />
-    <a href="https://hardtek.com.br/portfolio2/">Ver demonstração</a>
   </p>
 </div>
 
