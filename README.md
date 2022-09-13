@@ -29,7 +29,7 @@
 
 Fernando Machado - [@fmachadoweb](https://twitter.com/fmachadoweb) - fernandomachadoweb@gmail.com
 
-Project Link: [https://github.com/fmachadoweb/portfolio-web-com-contato](https://github.com/fmachadoweb/portfolio-web-com-contato)
+Project Link: [https://github.com/fmachadoweb/operadores-matematicos-em-java](https://github.com/fmachadoweb/operadores-matematicos-em-java)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
